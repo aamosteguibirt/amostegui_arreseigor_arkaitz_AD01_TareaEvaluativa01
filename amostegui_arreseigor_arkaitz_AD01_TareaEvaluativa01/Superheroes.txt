@@ -1,0 +1,9 @@
+ID   DNI        Nombre          Identidad Secreta    Tipo       Peso   Altura
+-------------------------------------------------------------------------------------------
+1    01010101A  Spiderman       Peter Parker         heroe      76     178   
+2    03030303C  Green Goblin    Norman Osborn        villano    84     183   
+3    05050505E  Storm           Ororo Munroe         heroe      66     156   
+4    07070707G  Wolverine       James Howlett        heroe      136    152   
+5    02020202B  Mystique        Raven Darkholme      villano    78     177   
+6    04040404D  IronMan         Tony Stark           heroe      102    182   
+7    06060606F  Mandarin        Zhang Tong           villano    70     188   
